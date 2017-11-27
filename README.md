@@ -11,7 +11,10 @@
     - Promedio de notas HSE 
     - Promedio de notas técnicas
 
-## Imagen 
+## Resultado
 
+Para realizar el dashboard, he utilizado elementos de navegación como los globales y facetados, esto para una mayor optimizacion del espacio, ya que es recomendable hacer los dashboard en una sola hoja. Los numeros y porcentajes no son exactos, pero estan basados en lo que se sabe de forma general.
 
-![Dashboard de Laboratoria](assets/images/sketch.png)
+## Imagen
+
+![Dashboard de Laboratoria](assets/images/dashboard.jpg)
